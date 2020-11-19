@@ -1,3 +1,4 @@
 {
-    "jwtPrivateKey": "livid_jwtPrivateKey"
+    "jwtPrivateKey": "livid_jwtPrivateKey",
+    "db": "livid_db"
 }
