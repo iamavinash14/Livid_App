@@ -23,10 +23,13 @@ Run the Tests
 You're almost done! Run the tests to make sure everything is working:
 
 npm test
+
 All tests should pass.
 
 Start the Server
+
 node index.js
+
 This will launch the Node server on port 3000. If that port is busy, you can set a different port.
 Open up your browser and head over to:
 
