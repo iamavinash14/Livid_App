@@ -1,4 +1,5 @@
 {
-    "jwtPrivateKey": "",
-     "db":"mongodb://localhost/livid"
+    "jwtPrivateKey": "umySecureKey",
+     "db":"mongodb://localhost/livid",
+     "port": "3900"
 }
