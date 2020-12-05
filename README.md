@@ -1,10 +1,10 @@
-# Livid_App
+# Livid_App #
 Movie Rental App- Backend
 
 This project is the backend of Livid, an imaginary video rental app. I've used many RESTful api's for various endpoints to register and authenticate users. 
 Genres api is created for classifying the movies according to their genres. The rental date, fee and movie information is handled using different endpoints.
 
-Setup
+# Setup #
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
 
 Install MongoDB
